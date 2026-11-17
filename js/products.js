@@ -1,5 +1,5 @@
 // Replace with your Cloudinary cloud name. Image path: {BASE}/{product-slug}.jpg
-const IMG_BASE="https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/mkwabi/products";
+const IMG_BASE="https://res.cloudinary.com/ypjrazwk/image/upload/mkwabi/products";
 const CATS={drinks:["🥤","Drinks"],snacks:["🍿","Snacks"],bakery:["🥖","Bakery"],butcher:["🥩","Butchery"],produce:["🥬","Fresh Produce"],dairy:["🥛","Dairy & Eggs"],pantry:["🍚","Pantry"],kitchen:["🍳","Kitchen Utensils"],household:["🧴","Household"],care:["🧼","Personal Care"],stationery:["✏️","Stationery"]};
 const DESC={drinks:"Refreshing beverage, best served chilled.",snacks:"Tasty ready-to-eat snack for any time of day.",bakery:"Baked fresh in store — best enjoyed the same day.",butcher:"Fresh cut, hygienically prepared. Keep refrigerated.",produce:"Fresh and carefully selected. Wash before use.",dairy:"Keep refrigerated. Check expiry date on pack.",pantry:"Quality staple for everyday cooking.",kitchen:"Durable, easy-to-clean kitchen essential.",household:"Reliable product for a clean, comfortable home.",care:"Gentle everyday personal care.",stationery:"Quality stationery for school, home and office."};
 const RAW={
